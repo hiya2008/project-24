@@ -1,2 +1,1 @@
-# project-24
-Hiya Rawal
+# Project_Template_24
